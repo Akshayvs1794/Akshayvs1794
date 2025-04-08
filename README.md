@@ -1,3 +1,10 @@
+<h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JqajEzZ3Rjc2J3OGdyZnRmamlpbWRhaGdxNWJrcW96YmlqMXB3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" height="175px"/></a></h1>
+
+<h1 align="center">Hi 👋, I'm Akshay Shinde </h1>
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%23FFA500&vCenter=true&lines=A+Passionate+Java+Developer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+
 # 💫 About Me:
 MCA & BSc(IT) graduate, looking for job opportunity as java developer
 
